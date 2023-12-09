@@ -50,7 +50,7 @@ The website is hosted on [Firebase](https://firebase.google.com/) or [Vercel](ht
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/online-student-group-assignment-website.git`
+1. Clone the repository: `git clone https://github.com/mohiqudraty/study-online-school.git`
 2. Install dependencies:
    - For NPM: `npm install`
    - For Yarn: `yarn install`
@@ -60,7 +60,7 @@ The website is hosted on [Firebase](https://firebase.google.com/) or [Vercel](ht
 4. Start the server:
    - For NPM: `npm run dev`
    - For Yarn: `yarn dev`
-5. Open `http://localhost:3000` in your browser.
+5. Open `http://localhost:5000` in your browser.
 
 ## Usage
 
